@@ -1,0 +1,302 @@
+01:45:39.957 Initializing concepts cache with 0 concepts
+01:45:39.958 Watching directory: /Users/sahabt/Downloads/example/specs
+01:45:39.958 Found 1 files
+01:45:39.959 Initializing specs cache with 1 specs
+01:45:39.959 Adding specs from /Users/sahabt/Downloads/example/specs/example.spec
+01:45:39.959 Initializing steps cache with 1 steps
+01:45:45.508 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+01:45:45.508 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+01:45:45.533 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+01:45:45.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01:45:45.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+01:45:45.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+01:45:48.746 Spec file removed: /Users/sahabt/Downloads/example/specs/example.spec
+01:45:48.746 Spec file added / modified: /Users/sahabt/Downloads/example/specs/example.spec
+01:56:12.393 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:12.394 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:12.398 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:12.398 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:12.400 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:12.400 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:12.401 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:12.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:12.436 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:12.436 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:13.445 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xx" > 
+01:56:13.445 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xx" parameterizedStepValue:"xx" > > 
+01:56:13.823 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+01:56:13.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+01:56:27.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.457 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.457 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.458 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.458 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.462 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.465 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.465 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.465 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.469 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.956 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.956 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.956 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.956 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.956 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.956 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.957 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.957 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.957 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.957 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.959 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.959 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:27.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:56:27.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:56:28.325 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+01:56:28.326 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+01:56:28.329 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+01:56:28.329 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+01:56:31.721 Spec file removed: /Users/sahabt/Downloads/example/specs/example.spec
+01:56:31.721 Spec file added / modified: /Users/sahabt/Downloads/example/specs/example.spec
+02:11:19.578 Watching directory: /Users/sahabt/Downloads/example/specs
+02:11:19.578 Found 1 files
+02:11:19.579 Initializing concepts cache with 0 concepts
+02:11:19.579 Initializing specs cache with 1 specs
+02:11:19.579 Adding specs from /Users/sahabt/Downloads/example/specs/example.spec
+02:11:19.580 Initializing steps cache with 1 steps
+02:23:10.265 Watching directory: /Users/sahabt/Downloads/example/specs
+02:23:10.266 Initializing concepts cache with 0 concepts
+02:23:10.266 Found 1 files
+02:23:10.267 Initializing specs cache with 1 specs
+02:23:10.267 Adding specs from /Users/sahabt/Downloads/example/specs/example.spec
+02:23:10.267 Initializing steps cache with 1 steps
+02:33:39.275 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+02:33:39.275 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+02:35:08.706 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+02:35:08.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+02:35:45.751 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+02:35:45.752 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+02:36:14.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+02:36:14.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+02:36:34.613 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xxxx" > 
+02:36:34.613 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+11:58:15.289 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ba" > 
+11:58:15.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ba" parameterizedStepValue:"ba" > > 
+11:58:16.274 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"batuhan" > 
+11:58:16.274 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"batuhan" parameterizedStepValue:"batuhan" > > 
+11:58:32.573 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.577 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.577 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.577 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.577 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.577 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:32.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:32.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.077 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.077 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.301 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.301 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.302 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.302 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.650 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.650 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.651 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.651 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.734 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.734 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.734 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.734 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.735 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.735 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.735 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.735 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.737 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.738 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.738 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.738 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.961 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.961 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:33.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:33.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.118 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.119 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.202 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.202 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.202 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.203 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.203 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.514 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.516 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.524 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.524 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.524 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:58:34.524 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:58:34.657 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+11:58:34.657 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+11:58:34.657 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+11:58:34.657 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+11:59:15.894 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"testinium" > 
+11:59:15.894 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"testinium" parameterizedStepValue:"testinium" > > 
+11:59:43.289 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+11:59:43.289 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"xxxx" parameterizedStepValue:"xxxx" > > 
+11:59:43.289 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+11:59:43.289 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:00:04.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:04.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:00:04.841 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:04.841 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:00:04.847 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:04.847 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:00:06.104 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"he" > 
+12:00:06.104 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"he" parameterizedStepValue:"he" > > 
+12:00:06.528 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello" > 
+12:00:06.528 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello" parameterizedStepValue:"hello" > > 
+12:00:08.152 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello bat" > 
+12:00:08.155 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello bat" parameterizedStepValue:"hello bat" > > 
+12:00:08.507 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello batu" > 
+12:00:08.507 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello batu" parameterizedStepValue:"hello batu" > > 
+12:00:09.796 Spec file removed: /Users/sahabt/Downloads/example/specs/example.spec
+12:00:09.796 Spec file added / modified: /Users/sahabt/Downloads/example/specs/example.spec
+12:00:14.462 Spec file removed: /Users/sahabt/Downloads/example/specs/example.spec
+12:00:14.462 Spec file added / modified: /Users/sahabt/Downloads/example/specs/example.spec
+12:00:15.398 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:00:15.398 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"batuhan" parameterizedStepValue:"batuhan" > allSteps:<stepValue:"testinium" parameterizedStepValue:"testinium" > > 
+12:00:15.398 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:00:15.398 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:00:55.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:55.709 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:00:55.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:55.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:00:55.720 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+12:00:55.720 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+12:05:10.725 Spec file removed: /Users/sahabt/Downloads/example/specs/example.spec
+12:05:10.725 Spec file added / modified: /Users/sahabt/Downloads/example/specs/example.spec
+17-03-2020 14:13:34.062 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\example - Kopya\specs
+17-03-2020 14:13:34.063 [Gauge] [DEBUG] Found 1 files
+17-03-2020 14:13:34.068 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-03-2020 14:13:34.070 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-03-2020 14:13:34.070 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\example - Kopya\specs\example.spec
+17-03-2020 14:13:34.070 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-03-2020 14:13:34.071 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51237
+17-03-2020 14:13:34.402 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17-03-2020 14:13:34.420 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.3\\libs" > 
+17-03-2020 14:15:39.578 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"batuhan" > 
+17-03-2020 14:15:39.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"batuhan" parameterizedStepValue:"batuhan" > > 
+17-03-2020 14:15:39.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello batu" > 
+17-03-2020 14:15:39.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello batu" parameterizedStepValue:"hello batu" > > 
+17-03-2020 14:15:39.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"testinium" > 
+17-03-2020 14:15:39.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"testinium" parameterizedStepValue:"testinium" > > 
+17-03-2020 14:41:25.942 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-03-2020 14:41:25.944 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-03-2020 14:41:25.944 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\example - Kopya\specs\example.spec
+17-03-2020 14:41:25.944 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-03-2020 14:41:25.944 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51545
+17-03-2020 14:41:25.947 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\example - Kopya\specs
+17-03-2020 14:41:25.947 [Gauge] [DEBUG] Found 1 files
+17-03-2020 14:41:26.462 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17-03-2020 14:41:26.463 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.3\\libs" > 
+17-03-2020 14:41:49.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"batuhan" > 
+17-03-2020 14:41:49.952 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"batuhan" parameterizedStepValue:"batuhan" > > 
+17-03-2020 14:41:50.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"testinium" > 
+17-03-2020 14:41:50.441 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"testinium" parameterizedStepValue:"testinium" > > 
+17-03-2020 14:41:50.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello batu" > 
+17-03-2020 14:41:50.445 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello batu" parameterizedStepValue:"hello batu" > > 
+17-03-2020 14:56:00.307 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\example - Kopya\specs
+17-03-2020 14:56:00.308 [Gauge] [DEBUG] Found 1 files
+17-03-2020 14:56:00.311 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-03-2020 14:56:00.313 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-03-2020 14:56:00.313 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\example - Kopya\specs\example.spec
+17-03-2020 14:56:00.313 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-03-2020 14:56:00.313 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51822
+17-03-2020 14:56:00.669 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17-03-2020 14:56:00.674 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.3\\libs" > 
+17-03-2020 14:56:36.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"testinium" > 
+17-03-2020 14:56:36.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"testinium" parameterizedStepValue:"testinium" > > 
+17-03-2020 14:56:36.692 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"batuhan" > 
+17-03-2020 14:56:36.693 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"batuhan" parameterizedStepValue:"batuhan" > > 
+17-03-2020 14:56:36.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"hello batu" > 
+17-03-2020 14:56:36.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"hello batu" parameterizedStepValue:"hello batu" > > 
+17-03-2020 15:24:02.076 [Gauge] [DEBUG] Unable to send analytics data, timed out

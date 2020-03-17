@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFnG7jMhm1vCNzn5B09q2iXlFP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\testinium\Desktop\example - Kopya\web_driver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.deneme">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:6" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="example - Kopya" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:6" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="example - Kopya" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.deneme" />
+        <item itemvalue="Gauge Execution.deneme (1)" />
+        <item itemvalue="Gauge Execution.deneme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="" />
+      <created>1584398585589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584398585589</updated>
+      <workItem from="1584443617270" duration="1639000" />
+      <workItem from="1584445296499" duration="805000" />
+      <workItem from="1584446169568" duration="1251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1584445678805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1584445678805" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1584445420227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584445420227" />
+    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584445743072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584445743072" />
+    <state x="349" y="238" key="FileChooserDialogImpl" timestamp="1584446723778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="238" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584446723778" />
+    <state width="1286" height="178" key="GridCell.Tab.0.bottom" timestamp="1584445261520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584445261520" />
+    <state width="1286" height="178" key="GridCell.Tab.0.center" timestamp="1584445261520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584445261520" />
+    <state width="1286" height="178" key="GridCell.Tab.0.left" timestamp="1584445261520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584445261520" />
+    <state width="1286" height="178" key="GridCell.Tab.0.right" timestamp="1584445261520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584445261520" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584446171282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584446171282" />
+    <state x="284" y="0" width="737" height="728" key="find.popup" timestamp="1584446774387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584446774387" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584446605521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584446605521" />
+  </component>
+</project>
